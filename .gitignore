@@ -1,0 +1,15 @@
+# Ignore compiled Python files
+__pycache__/
+*.pyc
+
+*.ipynb
+*.ipynb_checkpoints
+
+# Ignore built distribution files
+chunk/
+# Ignore virtual environment folders
+venv/
+.venv/
+
+*.wav
+*.mp3
